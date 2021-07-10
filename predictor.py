@@ -19,7 +19,7 @@ def app():
     st.sidebar.subheader("User Input Variables")
     
     #Give example of CSV file
-    st.sidebar.markdown("Example CSV file input: ")
+    st.sidebar.markdown("Example CSV file input: https://raw.githubusercontent.com/viraj-kulkarni952/Country-Predictor-Dashboard-App/main/country-example-format.csv")
     
     user_input_csv=st.sidebar.file_uploader("Upload your CSV file here:", type=['csv'])
     if user_input_csv is not None:
