@@ -15,8 +15,8 @@ $ git clone https://github.com/viraj-kulkarni952/Country-Predictor-Dashboard-App
 ```
 2. Create a virtual environment.
 ```bash
-$ python -m venv <path of the penguin prediction app directory>
-$ cd <path of your penguin prediction app directory>
+$ python -m venv <path of the country app directory>
+$ cd <path of your country app directory>
 $ source bin/activate
 ```
 3. Install the requirements.
