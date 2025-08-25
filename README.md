@@ -1,5 +1,5 @@
 # Country-Predictor-Dashboard-App
-A Python app that predicts the classification of a country based on its development indicators and a dashboard demonstrating various data visualisations about country development indicators.
+A Python app that predicts the classification of a country based on its development indicators and a dashboard demonstrating various data visualisations about country development indicators. A link to the dataset can be found [here](https://www.kaggle.com/datasets/virajkulkarni952/country-development-indicators).
 
 ## 1. Requirements
 * Pandas
